@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Sikder</h1>
 <h3 align="center">Student of CSE at PSTU, Bangladesh🌟.</h3>
 
-<img align="right" alt="codding" width ="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="codding" width ="400" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://github.com/Rakibul73/Rakibul73/blob/main/animation_500_kxa883sd.gif?raw=true)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsikder" /> </p>
 
