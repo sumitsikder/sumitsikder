@@ -3,7 +3,7 @@
 
 <img align="right" alt="codding" width ="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b9525pcbk4zpypm24krqoz9dkuuu9z8j0lfgyp7q5pb0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-
+<br><br>
 
 - 🌱 I’m currently learning **I’m currently learning Advance JavaScript**
 
