@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sumit Sikder</h1>
 <h3 align="center">Student of CSE at PSTU, Bangladesh🌟.</h3>
 
-<img align="right" alt="codding" width ="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b9525pcbk4zpypm24krqoz9dkuuu9z8j0lfgyp7q5pb0&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br><br>
+<img align="right" alt="codding" width ="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b9525pcbk4zpypm24krqoz9dkuuu9z8j0lfgyp7q5pb0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsikder" /> </p>
+
 
 - 🌱 I’m currently learning **I’m currently learning Advance JavaScript**
 
 - 📫 How to reach me **sumit17@cse.pstu.ac.bd**
 
 - ⚡ Fun fact **I like photography and playing guitar**
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsikder" /> </p>
   <br><br>
 
 <h3 align="left">Connect with me:</h3>
