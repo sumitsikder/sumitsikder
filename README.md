@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsikder&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsikder" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Advance JavaScript**
+- 🌱 I’m currently learning **I’m currently learning Advance ML**
 
 - 📫 How to reach me **sumit17@cse.pstu.ac.bd**
 
